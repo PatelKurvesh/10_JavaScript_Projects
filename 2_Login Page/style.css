@@ -1,0 +1,56 @@
+ .container{
+    width: 350px;
+    border: 5px solid black;
+    display: block;
+    margin: auto;
+    margin-top: 40%;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+
+
+
+
+
+ form .input_box{
+    height: 50px;
+    width: 300px;
+    position: relative;
+    margin-top: 15px;
+  }
+  .input_box input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: 2px solid rgb(134, 134, 134);
+    border-radius: 5px;
+    padding-left: 45px;
+    font-size: 17px;
+    transition: all 0.3s ease;
+  }
+
+  .input_box input:focus{
+    border-color: #be2edd;
+  }
+  .input_box .icon{
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    color: grey;
+  }
+
+
+  button{
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 3px;
+    font-size: 18px;
+}
+
