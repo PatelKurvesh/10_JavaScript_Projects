@@ -1,15 +1,21 @@
- .container{
+body{
+    background: rgb(143, 255, 218);
+}
+
+.container{
     width: 350px;
     border: 5px solid black;
     display: block;
     margin: auto;
-    margin-top: 40%;
+    margin-top: 15%;
     padding: 20px;
     border-radius: 20px;
 
 }
 
-
+button{
+    cursor: pointer;
+}
 
 
 
@@ -54,3 +60,11 @@
     font-size: 18px;
 }
 
+#submit{
+    color: rgb(0, 0, 0);
+    background-color: rgb(201, 92, 255);
+}
+#clear{
+    color: white;
+    background-color: black;
+}
