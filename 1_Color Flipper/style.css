@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+button{
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    margin: 40vh 90vh;
+    width: 200px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
