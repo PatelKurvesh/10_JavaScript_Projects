@@ -1,5 +1,5 @@
 body{
-    background: rgb(143, 255, 218);
+    background: #afc8e1
 }
 
 .container{
@@ -61,8 +61,8 @@ button{
 }
 
 #submit{
-    color: rgb(0, 0, 0);
-    background-color: rgb(201, 92, 255);
+    color: white;
+    background-color: rgb(20, 122, 255);
 }
 #clear{
     color: white;
